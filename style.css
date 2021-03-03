@@ -1,0 +1,187 @@
+*
+{
+  font-family: arial,sans-serif;
+  color: #8F9394;
+}
+
+header.menu
+{
+  padding-left: 75%;
+}
+
+#gmail
+{
+  color: #737373;
+  padding-right: 15px;
+  font-size: 14px;
+}
+
+#images
+{
+  color: #737373;
+  font-size: 14px;
+}
+
+#appli
+{
+  width: 8%;
+  height: auto;
+  margin-bottom: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#compte
+{
+  width: 15%;
+  height: auto;
+}
+
+#google
+{
+  margin-top: 6%;
+  margin-left: 40%;
+}
+
+#logo
+{
+  width: 37%;
+  height: auto;
+  margin-bottom: 4%;
+}
+
+div.search
+{
+  border-style: solid;
+  border-radius: 40px;
+  border-color: #70757A;
+  border-width: 0.3px;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+div.search:hover
+{
+  border-style: groove;
+  border-radius: 40px;
+  border-color: blue;
+  border-width: 0.3px;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+#loupe
+{
+  width: 3%;
+  height: auto;
+  padding-left: 5px;
+}
+
+#micro
+{
+  width: 2%;
+  height: auto;
+  padding-right: 10px;
+}
+
+#boutons
+{
+  display: flex;
+  justify-content: center;
+}
+
+button
+{
+  border: none;
+  padding: 10px;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-left: 10px;
+  background-color: #F8F9FA;
+  color: #222;
+  font-size: 14px;
+}
+
+a 
+{ 
+ text-decoration:none; 
+  color: #222;
+
+} 
+
+a:hover
+{
+  text-decoration: underline;
+  color: color: #8F9394;
+}
+
+section.Blanc
+{
+  margin: 17%;
+}
+
+footer
+{
+  background-color: #F2F2F2;
+  background-size: auto;
+  color: #8F9394;
+  padding-left: 10px;
+  padding-bottom: 20px;
+
+}
+
+#france
+{
+  padding: 1px;
+  font-size: 16px;
+  margin-bottom: 1px;
+}
+
+p
+{
+  padding-left: 25px;
+}
+
+#liens
+{
+  font-size: 14px;
+}
+
+#ecolo
+{
+  color: #222;
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+}
+
+hr
+{
+  margin: 0px;
+}
+
+#feuille
+{
+  width: auto;
+  height: 15px;
+  margin-right: 5px;
+  color: #8F9394;
+}
+
+#liensfooter
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-size: 14px;
+  font-family: arial,sans-serif;
+  color: #222;
+  list-style-type: none;
+}
